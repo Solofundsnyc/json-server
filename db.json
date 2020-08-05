@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "exchangeToken": {
+      "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoibEM4cFQ1ekE3Z2h5Z2dsa211eXNZdU1leHFyMSIsImV4cCI6MTU5OTI1MzczNCwiaWF0IjoxNTk2NjYxNzM0LCJpc3MiOiJTb0xvRnVuZHMgU2VydmljZSBBUEkifQ.PJwfkbJRLu594fCiN2LTASnd33O4hMAqUyAwuT3zZmU"
   }
 }
