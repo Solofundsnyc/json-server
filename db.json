@@ -11,5 +11,24 @@
   },
   "exchangeToken": {
       "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoibEM4cFQ1ekE3Z2h5Z2dsa211eXNZdU1leHFyMSIsImV4cCI6MTU5OTI1MzczNCwiaWF0IjoxNTk2NjYxNzM0LCJpc3MiOiJTb0xvRnVuZHMgU2VydmljZSBBUEkifQ.PJwfkbJRLu594fCiN2LTASnd33O4hMAqUyAwuT3zZmU"
+  },
+  "me": {
+    "block_reason": "",
+    "block_status": 0,
+    "borrowing_limit": "$100.00",
+    "created_at": "2020-03-09T18:39:29Z",
+    "credit": "$0.00",
+    "email": "rivertiger@gmail.com",
+    "first_name": "Phuong",
+    "guid": "L9K9aEZo2KQ1KqrSRtJpMNhB84C3",
+    "id": 373257,
+    "image_url": "https://lh3.googleusercontent.com/a-/AOh14GjMYUZl8TFG9SNPcAr_XOiMm-H6_-R3nkUTx-Xskt4=s96-c",
+    "last_name": "Nguyen",
+    "score": 46,
+    "summary": {
+      "total_borrowed": "$50.00",
+      "total_lent": "$100.00",
+      "total_profit": "$0.00"
+    }
   }
 }
