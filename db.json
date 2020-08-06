@@ -72,5 +72,57 @@
       ],
       "status": "verified"
     } 
+  },
+  "marketplace": {
+    "created_at": "2020-08-05T10:21:02Z",
+    "description": "Husband still quarantined (COVID)",
+    "donation_amount": "$10.50",
+    "expired_date": "2020-08-08",
+    "guid": "L9K9aEZo2KQ1KqrSRtJpMNhB84C3",
+    "id": 151614,
+    "is_guaranteeable": false,
+    "loan_amount": "$150.00",
+    "payback_date": "2020-08-14",
+    "score": 27,
+    "status": 1,
+    "tip_amount": "$10.00",
+    "tip_percentage": "7",
+    "updated_at": "2020-08-05T10:21:02Z",
+    "user": {
+        "first_name": "Rebecca",
+        "id": "L9K9aEZo2KQ1KqrSRtJpMNhB84C3",
+        "image_url": "https://graph.facebook.com/2017881134967905/picture?type=large",
+        "last_name": "Muckelvaney",
+        "loans_repaid": 13,
+        "score": 27
+    }
+  },
+  "loan": {
+    "15164": {
+      "borrower": {
+          "first_name": "Rebecca",
+          "id": "L9K9aEZo2KQ1KqrSRtJpMNhB84C3",
+          "image_url": "https://graph.facebook.com/2017881134967905/picture?type=large",
+          "last_name": "Muckelvaney",
+          "loans_repaid": 13,
+          "score": 27
+      },
+      "description": "Husband still quarantined (COVID)",
+      "lender_credits": "$0.00",
+      "loan_amount": "$150.00",
+      "loan_created_at": "2020-08-05",
+      "loan_donation_amount": "$10.50",
+      "loan_expire_date": "2020-08-08",
+      "loan_guarantee_amount": "$142.50",
+      "loan_guid": "b9cf9fd5-79f0-4eb1-8d64-1940351e2fd9",
+      "loan_id": 151614,
+      "loan_is_active": true,
+      "loan_is_guaranteeable": false,
+      "loan_payback_date": "2020-08-14",
+      "loan_score": 27,
+      "loan_slp_fee": "$7.50",
+      "loan_status": 1,
+      "loan_tip_amount": "$10.00"
+    }
   }
 }
