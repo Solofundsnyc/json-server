@@ -30,5 +30,47 @@
       "total_lent": "$100.00",
       "total_profit": "$0.00"
     }
+  },
+  "user": {
+    "status": {
+      "fields": [
+          {
+              "name": "address",
+              "required": true,
+              "status": "verified"
+          },
+          {
+              "name": "license",
+              "required": true,
+              "status": "verified"
+          },
+          {
+              "name": "ssn",
+              "required": true,
+              "status": "verified"
+          },
+          {
+              "name": "dob",
+              "status": "verified"
+          },
+          {
+              "name": "email",
+              "status": "verified"
+          },
+          {
+              "name": "phone",
+              "status": "verified"
+          },
+          {
+              "name": "active_borrower",
+              "status": "false"
+          },
+          {
+              "name": "active_lender",
+              "status": "false"
+          }
+      ],
+      "status": "verified"
+    } 
   }
 }
